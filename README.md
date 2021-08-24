@@ -2,7 +2,7 @@
 
 Continuação do projeto "teste-nav": https://github.com/emillyedu/Teste-nav 
 
-Feito com HTML, CSS e Javascript
+Feito com HTML, CSS e Javascript.
 
 ## Comportamento
 
