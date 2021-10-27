@@ -1,8 +1,8 @@
 # Pagina-calendario-zoom
 
-Continuação do projeto "teste-nav": https://github.com/emillyedu/Teste-nav 
+Página com calendário e zoom feita com HTML, CSS e Javascript.
 
-Feito com HTML, CSS e Javascript.
+Continuação do projeto "teste-nav": https://github.com/emillyedu/Teste-nav 
 
 ## Comportamento
 
